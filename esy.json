@@ -1,6 +1,6 @@
 {
   "//": "Keys that start with // are ignored",
-  "name": "esy-hello",
+  "name": "esy-libtool",
   "version": "0.0.1000",
   "// version": "See readme and docs on how to version packages",
   "description": "hello packaged for esy",
